@@ -16,6 +16,7 @@ gem 'stripe'
 gem 'redcarpet'
 gem 'figaro'
 gem 'font-awesome-sass'
+gem 'simple_form'
 
 group :development, :test do
   gem 'sqlite3'
